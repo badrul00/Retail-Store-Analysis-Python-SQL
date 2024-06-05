@@ -23,9 +23,9 @@
 
 ## 5 SQL Question 
 ### 1. find top 10 highest revenue generating products
-- werwerwerwer
-- werwerwerwerwer
-- werwerwerwer
+- take top 10 of sum of sale_price column by descending orders
+
+### 2. find top 5 highest selling products in each region
 
 
 
