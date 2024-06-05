@@ -1,5 +1,9 @@
 ## Introduction
+This is ETL project. ETL stands for Extract, Transform and Load . I am using retail store as dataset to clean and analyze by using Python and answering 5 question in SQL.
 
+Kaggle Dataset Link: https://www.kaggle.com/datasets/ankitbansal06/retail-orders
+
+Project tutorial credit to: Ankit Bansal
 
 ## Kaggle API
 1. Generate token on Kaggle personal account to use Kaggle API
